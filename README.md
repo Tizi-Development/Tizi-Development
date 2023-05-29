@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Tizian.<br>
-        - I'm a Developmer and an Sysadmin - <br>
+        - I'm a German Developmer and an Sysadmin - <br>
     </i><br>
 
 ### Languages
