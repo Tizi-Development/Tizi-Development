@@ -1,28 +1,3 @@
-<style>
-@keyframes wave-animation {
-    0% { transform: rotate(0); }
-    50% { transform: rotate(-10deg); }
-    100% { transform: rotate(0); }
-}
-
-@keyframes spin-animation {
-    0% { transform: rotate(0); }
-    100% { transform: rotate(360deg); }
-}
-
-@keyframes fade-in {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-}
-
-img[animation~="spin-animation"] {
-    animation: spin-animation 3s linear infinite;
-}
-
-img[animation~="fade-in"] {
-    animation: fade-in 1s;
-}
-</style>
 
 <h1 align="center">Hi, Developer or System Manager! <img src="https://camo.githubusercontent.com/edd88a50ef80173549840186c86c74c75189da8e897ca7cf22c2ee868c007650/68747470733a2f2f63646e2e74697a69616e2e746b2f42696c6465722f48616e64732e676966" width="28px" alt="👋"></h1>
 
