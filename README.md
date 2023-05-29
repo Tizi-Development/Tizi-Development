@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Tizian.<br>
-        - I'm a Developmer and an Sysadmin<br>
+        - I'm a Developmer and an Sysadmin - <br>
     </i><br>
     
 ### Languages
@@ -36,9 +36,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TiziDevelopment)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/TiziDevelopment)
 
-<details>
 <p align="center">
   <a href="https://github.com/TiziDevelopment">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiziDevelopment&theme=transparent" />
@@ -53,7 +51,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiziDevelopment&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/TiziDevelopment">
