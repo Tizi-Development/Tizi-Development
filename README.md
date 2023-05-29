@@ -22,6 +22,7 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/TiziDevelopment)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/TiziDevelopment)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/TiziDevelopment)
+[![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/TiziDevelopment)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/TiziDevelopment)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/TiziDevelopment)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TiziDevelopment)
@@ -50,14 +51,10 @@
     <img src="https://komarev.com/ghpvc/?username=TiziDevelopment&color=blue&style=flat)" />
   </a>
 </p>
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Hosting Panel and FiveM Key | Shop System.
+- 🌱 I’m currently learning Laravel
+- 💬 Ask me about Development and Sysmanaging
+- 📫 How to reach me: support@tizi-mail.de | < | Tizian | >#0001
+- ⚡ Fun fact: i'm a German Developer
+
