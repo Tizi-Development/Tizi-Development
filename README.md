@@ -9,7 +9,7 @@
     
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TiziDevelopment)
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=python)](https://github.com/TiziDevelopment)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/TiziDevelopment)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/TiziDevelopment)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/TiziDevelopment)
 [![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/TiziDevelopment)
