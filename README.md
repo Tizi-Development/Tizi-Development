@@ -18,7 +18,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/TiziDevelopment)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/TiziDevelopment)
+[![VUE](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue)](https://github.com/TiziDevelopment)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/TiziDevelopment)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/TiziDevelopment)
 [![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/TiziDevelopment)
