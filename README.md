@@ -1,7 +1,7 @@
 <h1 align="center">Hi, guys! <img src="https://camo.githubusercontent.com/edd88a50ef80173549840186c86c74c75189da8e897ca7cf22c2ee868c007650/68747470733a2f2f63646e2e74697a69616e2e746b2f42696c6465722f48616e64732e676966" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my Github Page!</b><br><br>
     <i>
         I'm Tizian.<br>
         - I'm a German Developmer and an Sysadmin - <br>
