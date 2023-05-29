@@ -57,4 +57,28 @@
 - 💬 Ask me about Development and Sysmanaging
 - 📫 How to reach me: support@tizi-mail.de | < | Tizian | >#0001
 - ⚡ Fun fact: i'm a German Developer
+<style>
+@keyframes wave-animation {
+    0% { transform: rotate(0); }
+    50% { transform: rotate(-10deg); }
+    100% { transform: rotate(0); }
+}
 
+@keyframes spin-animation {
+    0% { transform: rotate(0); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes fade-in {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+img[animation~="spin-animation"] {
+    animation: spin-animation 3s linear infinite;
+}
+
+img[animation~="fade-in"] {
+    animation: fade-in 1s;
+}
+</style>
