@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/TiziDevelopment">
-    <img src="https://komarev.com/ghpvc/?username=TiziDevelopment&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=TiziDevelopment&color=green&style=flat" />
   </a>
 </p>
 
