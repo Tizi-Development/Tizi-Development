@@ -55,5 +55,5 @@
 - 🔭 I’m currently working on Hosting Panel and FiveM Key | Shop System.
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about Development and Sysmanaging
-- 📫 How to reach me: support@tizi-mail.de | < | Tizian | >#0001
+- 📫 How to reach me: support@tizi-mail.de | tizian156
 - ⚡ Fun fact: i'm a German Developer
