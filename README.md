@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, Developer or System Manager! <img width="28px" alt="👋"></h1>
+<h1 align="center">Hi, Developer or System Manager! 👋</h1>
 
 <p align="center">
     <b>Welcome to the Tizi-Development GitHub Page!</b><br><br>
