@@ -39,7 +39,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tizi-development&theme=yeblu" />
   </a>
   <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tizi-development&theme=yeblu&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=yeblu" />
   </a>
 </p>
 
