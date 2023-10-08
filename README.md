@@ -30,10 +30,10 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TiziDevelopment)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=yeblu)
+
 <p align="center">
   <a href="https://github.com/TiziDevelopment">
-    <img src="[http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiziDevelopment&theme=transparent](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=yeblu)" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=yeblu" />
   </a>
   <a href="https://github.com/TiziDevelopment">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiziDevelopment&hide_border=true&card_width=338&theme=transparent" />
