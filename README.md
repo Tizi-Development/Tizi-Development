@@ -33,13 +33,13 @@
 
 <p align="center">
   <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=2077" />
   </a>
   <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tizi-development&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tizi-development&theme=2077" />
   </a>
   <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=default" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=2077" />
   </a>
 </p>
 
