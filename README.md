@@ -36,13 +36,13 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=yeblu" />
   </a>
   <a href="https://github.com/TiziDevelopment">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiziDevelopment&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tizi-development&theme=yeblu" />
   </a>
   <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiziDevelopment&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tizi-development&theme=yeblu&utcOffset=8" />
   </a>
   <a href="https://github.com/TiziDevelopment">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiziDevelopment&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=yeblu" />
   </a>
 </p>
 
