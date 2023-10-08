@@ -41,9 +41,6 @@
   <a href="https://github.com/TiziDevelopment">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tizi-development&theme=yeblu&utcOffset=8" />
   </a>
-  <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=yeblu" />
-  </a>
 </p>
 
 <p align="center">
