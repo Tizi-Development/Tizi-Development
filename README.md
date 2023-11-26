@@ -15,16 +15,16 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Tizian-Maxime-Weigt)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Tizian-Maxime-Weigt)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Tizian-Maxime-Weigt)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Tizian-Maxime-Weigt)
 [![MongoDB](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mongodb)](https://github.com/Tizian-Maxime-Weigt)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Tizian-Maxime-Weigt)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Tizian-Maxime-Weigt)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Tizian-Maxime-Weigt)
 [![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/Tizian-Maxime-Weigt)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Tizian-Maxime-Weigt)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Tizian-Maxime-Weigt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
+[![Proxmox](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
