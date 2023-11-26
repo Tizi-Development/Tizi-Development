@@ -41,7 +41,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=2077" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/TiziDevelopment">
     <img src="https://komarev.com/ghpvc/?username=TiziDevelopment&color=green&style=flat" />
