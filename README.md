@@ -31,6 +31,13 @@
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/Tizian-Maxime-Weigt)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
+
+- 🌱 I’m currently build my Global Network infrastrukture
+- 💬 Ask me about Development and Sysmanaging
+- 📫 How to reach me: support@tizi-mail.de | tizian156 <- Discord
+- ⚡ Fun fact: i'm a Developer an System and Network Manager! :).
+![](https://hit.yhype.me/github/profile?user_id=108728667)
+
 <p align="center">
   <a href="https://github.com/Tizian-Maxime-Weigt">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizian-Maxime-Weigt&theme=2077" />
@@ -47,9 +54,3 @@
     <img src="https://komarev.com/ghpvc/?username=Tizian-Maxime-Weigt&color=green&style=flat" />
   </a>
 </p>
-
-- 🌱 I’m currently build my Global Network infrastrukture
-- 💬 Ask me about Development and Sysmanaging
-- 📫 How to reach me: support@tizi-mail.de | tizian156 <- Discord
-- ⚡ Fun fact: i'm a Developer an System and Network Manager! :).
-![](https://hit.yhype.me/github/profile?user_id=108728667)
