@@ -2,10 +2,11 @@
 <h1 align="center">Hi, Developer and System / Network Manager! 👋</h1>
 
 <p align="center">
-    <b>Welcome to the Tizi-Development GitHub Page!</b><br><br>
+    <b> Welcome to my GitHub Page! </b><br><br>
     <i>
         I'm Tizian.<br>
-        - I'm a German Developer and System / Network Manager <br>
+        - I'm a German Developer and System / Network Manager -
+        <br>
     </i><br>
 
 ### Languages
