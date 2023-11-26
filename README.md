@@ -50,10 +50,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on Hosting Panel and FiveM Key | Shop System.
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently build my Global Network infrastrukture
 - 💬 Ask me about Development and Sysmanaging
-- 📫 How to reach me: support@tizi-mail.de | tizian156
-- ⚡ Fun fact: i'm a German Developer
+- 📫 How to reach me: support@tizi-mail.de | tizian156 <- Discord
+- ⚡ Fun fact: i'm a Developer an System and Network Manager! :).
 
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
