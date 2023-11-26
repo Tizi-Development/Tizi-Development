@@ -28,8 +28,8 @@
 [![VMWare](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOS)](https://github.com/TiziDevelopment)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TiziDevelopment)
 
 <p align="center">
