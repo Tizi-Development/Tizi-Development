@@ -6,8 +6,8 @@
     <i>
         I'm Tizian.<br>
         - I'm a German Developer and System / Network Manager -
-         📍 99817 Eisenach
     <br>
+        📍 99817 Eisenach
 </i><br>
 
 ### Languages
