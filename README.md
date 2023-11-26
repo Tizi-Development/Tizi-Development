@@ -5,7 +5,7 @@
     <b>Welcome to the Tizi-Development GitHub Page!</b><br><br>
     <i>
         I'm Tizian.<br>
-        - I'm a German Developer and an System Manager - <br>
+        - I'm a German Developer and an System/Network Manager - <br>
     </i><br>
 
 ### Languages
