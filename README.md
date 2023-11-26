@@ -23,7 +23,6 @@
 [![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=Laravel)](https://github.com/Tizian-Maxime-Weigt)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Tizian-Maxime-Weigt)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Tizian-Maxime-Weigt)
-[![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)](https://github.com/Tizian-Maxime-Weigt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
 [![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
