@@ -28,24 +28,24 @@
 [![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
 ### OS
-[![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/TiziDevelopment)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TiziDevelopment)
+[![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/Tizian-Maxime-Weigt)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Tizian-Maxime-Weigt)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
 
 <p align="center">
-  <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tizi-development&theme=2077" />
+  <a href="https://github.com/Tizian-Maxime-Weigt">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizian-Maxime-Weigt&theme=2077" />
   </a>
-  <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tizi-development&theme=2077" />
+  <a href="https://github.com/Tizian-Maxime-Weigt">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tizian-Maxime-Weigt&theme=2077" />
   </a>
-  <a href="https://github.com/TiziDevelopment">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tizi-development&theme=2077" />
+  <a href="https://github.com/Tizian-Maxime-Weigt">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tizian-Maxime-Weigt&theme=2077" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TiziDevelopment">
-    <img src="https://komarev.com/ghpvc/?username=TiziDevelopment&color=green&style=flat" />
+  <a href="https://github.com/Tizian-Maxime-Weigt">
+    <img src="https://komarev.com/ghpvc/?username=Tizian-Maxime-Weigt&color=green&style=flat" />
   </a>
 </p>
 
