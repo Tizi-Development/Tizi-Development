@@ -7,11 +7,7 @@
     <br>
         - I'm from the middle at Germany 📍 Eisenach
 </i><br>
-<p align="center">
-  <a href="https://github.com/Tizian-Maxime-Weigt">
-    <img src="https://komarev.com/ghpvc/?username=Tizian-Maxime-Weigt&color=green&style=flat" />
-  </a>
-</p>
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Tizian-Maxime-Weigt)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Tizian-Maxime-Weigt)
