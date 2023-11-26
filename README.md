@@ -15,7 +15,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Tizian-Maxime-Weigt)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Tizian-Maxime-Weigt)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Tizian-Maxime-Weigt)
-[![MongoDB](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mongodb)](https://github.com/Tizian-Maxime-Weigt)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Tizian-Maxime-Weigt)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Tizian-Maxime-Weigt)
 
 ### Technologies & Frameworks
@@ -24,11 +24,11 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Tizian-Maxime-Weigt)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Tizian-Maxime-Weigt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
-[![Proxmox](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
-[![VMWare](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
+[![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
+[![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
 ### OS
-[![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOS)](https://github.com/TiziDevelopment)
+[![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/TiziDevelopment)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TiziDevelopment)
 
