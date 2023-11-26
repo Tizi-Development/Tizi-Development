@@ -25,9 +25,11 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Tizian-Maxime-Weigt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![Proxmox](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
+[![VMWare](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/TiziDevelopment)
+[![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=MacOS)](https://github.com/TiziDevelopment)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TiziDevelopment)
 
 <p align="center">
