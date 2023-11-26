@@ -27,7 +27,7 @@
 [![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
 [![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
-### OS
+### OS's that i know
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/Tizian-Maxime-Weigt)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
