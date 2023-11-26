@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, Welcome to my GitHub Page! 👋</h1>
 
 <p align="center">
@@ -38,7 +37,7 @@
 - ⚡ Fun fact: i'm a Developer an System and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
 <br>
-<p align="center"> Stats about me </p>
+<h1 align="center"> Stats about me </h1>
 <br>
 <p align="center">
   <a href="https://github.com/Tizian-Maxime-Weigt">
