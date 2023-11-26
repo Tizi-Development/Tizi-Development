@@ -1,13 +1,14 @@
 
-<h1 align="center">Hi, Developer and System / Network Manager! 👋</h1>
+<h1 align="center">Hi, 👋</h1>
 
 <p align="center">
     <b> Welcome to my GitHub Page! </b><br><br>
     <i>
         I'm Tizian.<br>
         - I'm a German Developer and System / Network Manager -
-        <br>
-    </i><br>
+         📍 99817 Eisenach
+    <br>
+</i><br>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Tizian-Maxime-Weigt)
