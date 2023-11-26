@@ -1,11 +1,11 @@
 <h1 align="center">Hi, Welcome to my GitHub Page! 👋</h1>
 
-<p align="center">
-    <i>I'm Tizian.<br>
+<p align="center">I'm Tizian.<br>
         - I'm a German Developer and System / Network Manager -
     <br>
         - I'm from the middle at Germany 📍 Eisenach
-</i> <br> </p>
+<br> 
+</p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Tizian-Maxime-Weigt)
