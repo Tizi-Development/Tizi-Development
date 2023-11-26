@@ -1,8 +1,7 @@
 
-<h1 align="center">Hi, 👋</h1>
+<h1 align="center">Hi, Welcome to my GitHub Page!  👋</h1>
 
 <p align="center">
-    <b> Welcome to my GitHub Page! </b><br><br>
     <i>
         I'm Tizian.<br>
         - I'm a German Developer and System / Network Manager -
