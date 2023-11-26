@@ -3,7 +3,7 @@
 <p align="center">I'm Tizian.<br>
         - I'm a German Developer and System / Network Manager -
     <br>
-        - I'm from the middle at Germany 📍 Eisenach
+        - I come from the middle of Germany 📍Eisenach
 <br> 
 </p>
 
