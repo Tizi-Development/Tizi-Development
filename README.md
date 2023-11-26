@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, Welcome to my GitHub Page!  👋</h1>
+<h1 align="center">Hi, Welcome to my GitHub Page! 👋</h1>
 
 <p align="center">
     <i>
@@ -37,7 +37,9 @@
 - 📫 How to reach me: support@tizi-mail.de | tizian156 <- Discord
 - ⚡ Fun fact: i'm a Developer an System and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
-
+<br>
+<p align="center"> Stats about me </p>
+<br>
 <p align="center">
   <a href="https://github.com/Tizian-Maxime-Weigt">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tizian-Maxime-Weigt&theme=2077" />
