@@ -30,8 +30,8 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
 
-- 🌱 I’m currently build my Global Network infrastrukture
-- 💬 Ask me about Development and Sysmanaging
+- 🌱 I’m currently build my own Global Network infrastrukture
+- 💬 Ask me about Development and Network Management or Systemadministration (ENG/DE)
 - 📫 How to reach me: support@tizi-mail.de | tizian156 <- Discord
 - ⚡ Fun fact: i'm a Developer an System and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
