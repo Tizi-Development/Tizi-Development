@@ -3,7 +3,7 @@
 <p align="center">I'm Tizian.<br>
         - I'm a German Developer and System / Network Manager (ISP / AS215828) -
     <br>
-        - I come from the middle of Germany 📍Eisenach
+        - I come from the middle of Germany 📍Eisenach -
 <br> 
 </p>
 
