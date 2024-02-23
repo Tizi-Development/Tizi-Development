@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Tizian-Maxime-Weigt)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Tizian-Maxime-Weigt)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Tizian-Maxime-Weigt)
-[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)](https://github.com/Tizian-Maxime-Weigt)
+[![Json](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)](https://github.com/Tizian-Maxime-Weigt)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Tizian-Maxime-Weigt)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Tizian-Maxime-Weigt)
 
@@ -23,6 +23,8 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Tizian-Maxime-Weigt)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Tizian-Maxime-Weigt)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.docker.com/u/TizianMaximeWeigt)
+[![BGP](https://img.shields.io/badge/bgp-black?style=for-the-badge&logo=bgp)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
 [![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
