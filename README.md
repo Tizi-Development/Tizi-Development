@@ -25,13 +25,12 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![BGP](https://img.shields.io/badge/bgp-black?style=for-the-badge&logo=bgp)](https://hub.docker.com/u/TizianMaximeWeigt)
-[![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
-[![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 
 ### OS's that i know
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/Tizian-Maxime-Weigt)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Tizian-Maxime-Weigt)
-[![Unix](https://img.shields.io/badge/unix-black?style=for-the-badge&logo=unix)](https://github.com/Tizian-Maxime-Weigt)
+[![Proxmox](https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=proxmox)](https://github.com/Tizian-Maxime-Weigt)
+[![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
 
 - 🌱 I’m currently build my own Global Network infrastrukture
