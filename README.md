@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently build my own Global Network infrastrukture
 - 💬 Ask me about Development and Network Management or Systemadministration (ENG/DE)
-- 📫 How to reach me: support@tizi-mail.de | tizian_maxime_weigt <- Discord
+- 📫 How to reach me: support@t-w.dev | tizian_maxime_weigt <- Discord
 - ⚡ Fun fact: i'm a Developer an System- and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
 <br>
