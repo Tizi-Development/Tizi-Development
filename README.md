@@ -9,7 +9,7 @@
 <br> 
 </p>
 
-### Languages
+### Languages that I know
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Tizian-Maxime-Weigt)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Tizian-Maxime-Weigt)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Tizian-Maxime-Weigt)
@@ -17,7 +17,7 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Tizian-Maxime-Weigt)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Tizian-Maxime-Weigt)
 
-### Technologies & Frameworks
+### Technologies & Frameworks wuth that I can work
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Tizian-Maxime-Weigt)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Tizian-Maxime-Weigt)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Tizian-Maxime-Weigt)
