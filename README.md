@@ -27,6 +27,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://hub.docker.com/u/TizianMaximeWeigt)
 [![BGP](https://img.shields.io/badge/bgp-black?style=for-the-badge&logo=bgp)](https://hub.docker.com/u/TizianMaximeWeigt)
+[![OSPF](https://img.shields.io/badge/ospf-black?style=for-the-badge&logo=ospf)](https://hub.docker.com/u/TizianMaximeWeigt)
 
 ### OS's that i know
 [![MacOS](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Apple)](https://github.com/Tizian-Maxime-Weigt)
