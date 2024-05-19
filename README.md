@@ -36,7 +36,7 @@
 [![VMWare](https://img.shields.io/badge/vmware-black?style=for-the-badge&logo=vmware)](https://github.com/Tizian-Maxime-Weigt)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Tizian-Maxime-Weigt)
 
-- 🌱 I’m currently build my own Global Network infrastrukture
+- 🌱 I’m currently build my own Global Network infrastrukture (T2 -> T1 :D)
 - 💬 Ask me about Development and Network Management or Systemadministration (ENG/DE)
 - 📫 How to reach me: support@t-w.dev | tizian.weigt <- Discord
 - ⚡ Fun fact: i'm a Developer an System- and Network Manager! :).
