@@ -1,9 +1,8 @@
 <h1 align="center">Hi, Welcome to my GitHub Page! 👋</h1>
 
-<p align="center">Hi! I'm Tizian.<br>
+<p align="center">Hi! I'm Tizian.<br></p>
+<img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt">
 <p align="center">
-        <img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt">
-</p>
         - I'm a German Developer and System / Network Manager (ISP / AS215828) -
     <br>
         - I come from the middle of Germany 📍Eisenach -
