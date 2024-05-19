@@ -38,6 +38,8 @@
 - 📫 How to reach me: support@t-w.dev | tizian.weigt <- Discord
 - ⚡ Fun fact: i'm a Developer an System- and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
+
+<br>
 <p align="center">
         <img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt">
 </p>
