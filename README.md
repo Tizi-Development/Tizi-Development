@@ -1,6 +1,10 @@
 <h1 align="center">Hi, Welcome to my GitHub Page! 👋</h1>
 
 <p align="center">I'm Tizian.<br>
+<br>
+<p align="center">
+        <img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt">
+</p>
         - I'm a German Developer and System / Network Manager (ISP / AS215828) -
     <br>
         - I come from the middle of Germany 📍Eisenach -
@@ -39,10 +43,6 @@
 - ⚡ Fun fact: i'm a Developer an System- and Network Manager! :).
 ![](https://hit.yhype.me/github/profile?user_id=108728667)
 
-<br>
-<p align="center">
-        <img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt">
-</p>
 <br>
 <h1 align="center"> Stats about me </h1>
 <br>
