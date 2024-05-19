@@ -1,7 +1,6 @@
 <h1 align="center">Hi, Welcome to my GitHub Page! 👋</h1>
 
-<p align="center">I'm Tizian.<br>
-<br>
+<p align="center">Hi! I'm Tizian.<br>
 <p align="center">
         <img src="https://discord.c99.nl/widget/theme-2/246256022182821888.png" alt="Tizian Maxime Weigt">
 </p>
